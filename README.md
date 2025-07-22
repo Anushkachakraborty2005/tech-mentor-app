@@ -19,10 +19,10 @@ Whether you're struggling with a coding concept 💻, need a quick explanation o
 - 💡 **Code Examples** – Optional code (Python, C, C++, Java) with complexity analysis.
 - 🌍 **Top Related Articles** – 3 most relevant web articles via Google Custom Search.
 - 📺 **Top YouTube Videos** – 3 most viewed videos related to your query.
-- 📝 **Practice Questions** – Auto-generated:
-  -🎗 Multiple Choice Questions (MCQ)
-  - ♣ Short Answer Questions (SAQ)
-  -📒 Long Answer Questions
+- 📝 **Practice Questions** –
+            -🎗 Multiple Choice Questions (MCQ)
+            - ♣ Short Answer Questions (SAQ)
+            -📒 Long Answer Questions
 - 📄 **PDF Report** – Download the full response and learning material.
 
 
@@ -50,7 +50,7 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 ## 🤝 Contributing 🛠
 
 Contributions are welcome!  
-If you have suggestions for improvements, bug fixes 🐞, or new features 🌟, please feel free to contact the developer or open a pull request 🚀.
+If you have suggestions for improvements, bug fixes 🐞, or new features 🌟, please feel free to contact.
 
 ---
 

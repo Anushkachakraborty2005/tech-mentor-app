@@ -62,7 +62,7 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 
 Contributions are welcome!🫶🏻
 
-If you have suggestions for improvements, bug fixes 🐞, or new features 🌟, please feel free to contact.
+If you have suggestions for improvements, bug fixes, or new features, please feel free to contact 💌
 
 ---
 

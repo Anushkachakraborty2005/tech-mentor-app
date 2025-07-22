@@ -1,54 +1,59 @@
 # 📝 TechMentor: Your AI-Powered Tech Help Desk for Students 📚
 
-## ✨ Overview
+## ✨ Overview 🌐
 
-**TechMentor** is an interactive web application designed to be a student's ultimate tech help desk. Powered by advanced AI models and integrated with web search capabilities, it provides comprehensive answers to complex tech queries, suggests relevant articles and videos, and generates practice questions to test understanding.
+**TechMentor** is an interactive web application designed to be a student's ultimate tech help desk.  
+Powered by advanced AI models and integrated with web search capabilities, it provides:
 
-Whether you're struggling with a coding concept, need a quick explanation of a technology, or want to prepare for an exam, **TechMentor** has you covered!
+- Comprehensive answers to complex tech queries 🤖  
+- Suggested relevant articles and videos 📖📺  
+- Practice questions to test understanding 🧠  
 
----
-
-## 🚀 Features
-
-- **Comprehensive Answers:** Get detailed, AI-generated explanations for any tech topic.  
-- **Code Examples (Optional):** Choose to include code implementations (Python, C, C++, Java) with complexity analysis for practical understanding.  
-- **Top Related Articles:** Discover the top 3 most relevant web articles from Google Custom Search to deepen your knowledge.  
-- **Top Viewed YouTube Videos:** Access the top 3 most viewed YouTube videos related to your query for visual learning.  
-- **Practice Questions:** Automatically generates:  
-  - Multiple Choice Questions (MCQ)  
-  - Short Answer Questions (SAQ)  
-  - Long Answer Questions  
-- **PDF Report Generation:** Download a complete report of your query, answer, related resources, and practice questions for offline study.  
-- **Clean & Intuitive UI:** A user-friendly interface with a consistent dark theme for a pleasant learning experience.
+Whether you're struggling with a coding concept 💻, need a quick explanation of a technology, or want to prepare for an exam 🎯, **TechMentor** has you covered!
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Features 
+
+- ✅ **Comprehensive Answers** – AI-generated, detailed explanations for any tech topic.
+- 💡 **Code Examples** – Optional code (Python, C, C++, Java) with complexity analysis.
+- 🌍 **Top Related Articles** – 3 most relevant web articles via Google Custom Search.
+- 📺 **Top YouTube Videos** – 3 most viewed videos related to your query.
+- 📝 **Practice Questions** – Auto-generated:
+  -🎗 Multiple Choice Questions (MCQ)
+  - ♣ Short Answer Questions (SAQ)
+  -📒 Long Answer Questions
+- 📄 **PDF Report** – Download the full response and learning material.
+
+
+---
+
+##  Tech Stack 💻
 
 - **Frontend/Backend Framework:** Streamlit (Python)  
-- **Asynchronous HTTP Requests:** Aiohttp  
+- **Async HTTP Requests:** Aiohttp  
 - **PDF Generation:** ReportLab  
 - **AI Model:** Google Gemini API (gemini-2.0-flash)  
 - **Web Search:** Google Custom Search API  
 - **Video Search:** YouTube Data API v3
 
 ---
-
-## ☁️ Deployment
+## ☁️ Deployment 
 
 This application is designed for easy deployment on **Streamlit Community Cloud**.
 
-You can view the live deployed application here:  
-🔗 [TechMentor Live App](https://tech-mentor-app-k8szevckmur245i22lc4b2.streamlit.app/)
+🎬 **Live Application:** [TechMentor on Streamlit](https://tech-mentor-app-k8szevckmur245i22lc4b2.streamlit.app/)
 
-## 🤝 Contributing
+
+---
+
+## 🤝 Contributing 🛠
 
 Contributions are welcome!  
-If you have suggestions for improvements, bug fixes, or new features, please feel free to contact the developer or submit a pull request.
+If you have suggestions for improvements, bug fixes 🐞, or new features 🌟, please feel free to contact the developer or open a pull request 🚀.
 
-## 🧑‍💻 Developed By
+---
+
+## 🧑‍💻 Developed By 👩‍💻
 
 [**Anushka Chakraborty**](https://www.linkedin.com/in/anushka-chakraborty-006881311/)
-
-
-

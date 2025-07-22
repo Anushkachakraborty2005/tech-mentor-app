@@ -49,7 +49,7 @@ Whether you're struggling with a coding concept 💻, need a quick explanation o
 - **Video Search:** YouTube Data API v3
 
 ---
-## ☁️ Deployment 
+##  ⏳ Deployment 
 
 This application is designed for easy deployment on **Streamlit Community Cloud**.
 
@@ -58,7 +58,7 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 
 ---
 
-## 🤝 Contributing 🛠
+## 🤝 Contributing 
 
 Contributions are welcome!🫶🏻
 

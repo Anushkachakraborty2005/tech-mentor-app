@@ -1,4 +1,4 @@
-# 📝 TechMentor 📝 : Your AI-Powered Tech Help Desk for Students 📚
+# 📝 TechMentor 📝 : Your AI-Powered Tech Help Desk for Students 
 
 ## 🌐 Overview 
 
@@ -9,7 +9,8 @@ Powered by advanced AI models and integrated with web search capabilities, it pr
 - Suggested relevant articles and videos 📺  
 - Practice questions to test understanding 🧠  
 
-Whether you're struggling with a coding concept 💻, need a quick explanation of a technology 📊 , or want to prepare for an exam 💡, **TechMentor** has you covered ✨!!!
+Whether you're struggling with a coding concept 💻, need a quick explanation of a technology 📊 , or want to prepare for an exam 💡.
+                   **TechMentor** is here to guide you ✨!!!
 
 ---
 ## 🎯 Aim

@@ -6,15 +6,13 @@
 Powered by advanced AI models and integrated with web search capabilities, it provides:
 
 - Comprehensive answers to complex tech queries 🤖  
-- Suggested relevant articles and videos 📖📺  
+- Suggested relevant articles and videos 📺  
 - Practice questions to test understanding 🧠  
 
 Whether you're struggling with a coding concept 💻, need a quick explanation of a technology, or want to prepare for an exam 🎯, **TechMentor** has you covered!
 
 ---
 ## 🎯 Aim
-
-The primary goals of **TechMentor** are:
 
 1. 💬 **Simplify Complex Tech Topics**  
    To help students understand difficult programming and technology concepts with clear, AI-generated explanations.

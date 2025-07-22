@@ -41,5 +41,15 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 You can view the live deployed application here:  
 🔗 [TechMentor Live App](https://tech-mentor-app-k8szevckmur245i22lc4b2.streamlit.app/)
 
-> Remember to replace `your_username` and `your_repository_name` with your actual details if you fork and deploy your own version.
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you have suggestions for improvements, bug fixes, or new features, please feel free to contact the developer or submit a pull request.
+
+---
+
+## 🧑‍💻 Developed By
+
+**Anushka Chakraborty**
+
 

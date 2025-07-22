@@ -32,7 +32,9 @@ Whether you're struggling with a coding concept 💻, need a quick explanation o
 - 🌍 **Top Related Articles** – 3 most relevant web articles via Google Custom Search.
 - 📺 **Top YouTube Videos** – 3 most viewed videos related to your query.
 - 📝 **Practice Questions** –
-            -🎗 Multiple Choice Questions (MCQ), ♣ Short Answer Questions (SAQ), 📒 Long Answer Questions
+            -  **🎗 Multiple Choice Questions (MCQ)**
+            - ** ♣ Short Answer Questions (SAQ)**
+             -** 📒 Long Answer Questions**
 - 📄 **PDF Report** – Download the full response and learning material.
 
 

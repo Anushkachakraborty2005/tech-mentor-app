@@ -25,17 +25,31 @@ Whether you're struggling with a coding concept 💻, need a quick explanation o
    To boost self-preparation through practice questions, quizzes, and downloadable reports.
  --- 
  
-## 🚀 Features 
+## 🚀 Features
 
-- ✅ **Comprehensive Answers** – AI-generated, detailed explanations for any tech topic.
-- 💡 **Code Examples** – Optional code (Python, C, C++, Java) with complexity analysis.
-- 🌍 **Top Related Articles** – 3 most relevant web articles via Google Custom Search.
-- 📺 **Top YouTube Videos** – 3 most viewed videos related to your query.
-- 📝 **Practice Questions** –
-            -  **🎗 Multiple Choice Questions (MCQ)**
-            - ** ♣ Short Answer Questions (SAQ)**
-             -** 📒 Long Answer Questions**
-- 📄 **PDF Report** – Download the full response and learning material.
+- 🤖 **AI-Powered Answers**  
+  Get detailed, AI-generated explanations for any tech topic — from basic to advanced.
+
+- 💻 **Code Examples (Optional)**  
+  Include code snippets in Python, C, C++, or Java — with time and space complexity analysis for practical understanding.
+
+- 🌐 **Top Related Articles**  
+  Automatically fetches the top 3 most relevant articles using Google Custom Search to expand your knowledge.
+
+- 📺 **Top YouTube Videos**  
+  Get the top 3 most viewed YouTube videos related to your query for visual and engaging learning.
+
+- 📝 **Practice Questions Generator**  
+  Instantly generate:
+  - 📘 Multiple Choice Questions (MCQ)  
+  - ✏️ Short Answer Questions (SAQ)  
+  - 📄 Long Answer Questions  
+
+- 📤 **PDF Report Download**  
+  Download a comprehensive report that includes your question, AI answer, articles, videos, and practice questions.
+
+- 🌙 **Clean & Intuitive UI**  
+  A modern, student-friendly interface with a consistent dark mode for distraction-free learning.
 
 
 ---

@@ -79,6 +79,16 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 
 ---
 
+## 📁 Project Structure
+
+The project follows a simple and flat structure, making it easy to navigate and understand:
+
+tech-mentor-app/
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+ ---
+ 
 
 ## 🤝 Contributing 
 

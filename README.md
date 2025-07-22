@@ -12,7 +12,20 @@ Powered by advanced AI models and integrated with web search capabilities, it pr
 Whether you're struggling with a coding concept 💻, need a quick explanation of a technology, or want to prepare for an exam 🎯, **TechMentor** has you covered!
 
 ---
+## 🎯 Aim
 
+The primary goals of **TechMentor** are:
+
+1. 💬 **Simplify Complex Tech Topics**  
+   To help students understand difficult programming and technology concepts with clear, AI-generated explanations.
+
+2. 📚 **Enhance Learning with Resources**  
+   To provide curated articles, videos, and examples for deep and effective understanding.
+
+3. 🧠 **Encourage Active Learning**  
+   To boost self-preparation through practice questions, quizzes, and downloadable reports.
+ --- 
+ 
 ## 🚀 Features 
 
 - ✅ **Comprehensive Answers** – AI-generated, detailed explanations for any tech topic.
@@ -49,7 +62,7 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 
 ## 🤝 Contributing 🛠
 
-Contributions are welcome!  
+Contributions are welcome!🫶🏻
 If you have suggestions for improvements, bug fixes 🐞, or new features 🌟, please feel free to contact.
 
 ---

@@ -46,10 +46,9 @@ You can view the live deployed application here:
 Contributions are welcome!  
 If you have suggestions for improvements, bug fixes, or new features, please feel free to contact the developer or submit a pull request.
 
----
-
 ## 🧑‍💻 Developed By
 
-**Anushka Chakraborty**
+[**Anushka Chakraborty**](https://www.linkedin.com/in/anushka-chakraborty-006881311/)
+
 
 

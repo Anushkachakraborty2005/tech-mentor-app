@@ -86,7 +86,7 @@ The project follows a simple and flat structure, making it easy to navigate and 
 tech-mentor-app/
 ├── app.py # Main Streamlit application
 ├── requirements.txt # Python dependencies
-├── README.md # Project documentation
+└── README.md # Project documentation
  ---
  
 

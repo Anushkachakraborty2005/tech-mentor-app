@@ -82,9 +82,9 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 📁 Project Structure
 
 tech-mentor-app/
-├── app.py # Main Streamlit application
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── app.py # Main Streamlit Application 
+├── requirements.txt # Python Dependencies
+└── README.md # Project Documentation
  ```
 ---
  

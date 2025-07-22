@@ -1,5 +1,7 @@
 # 📝TechMentor 📝:  Your AI-Powered Tech Help Desk for Students 
-
+## Live Preview 🪐
+Experience the app live: [Live Preview](https://tech-mentor-app-k8szevckmur245i22lc4b2.streamlit.app/)
+--- 
 ## 🌐 Overview 
 
 **TechMentor** is an interactive web application designed to be a student's ultimate tech help desk.  
@@ -70,8 +72,8 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 
 🎬 **Live Application:** [TechMentor on Streamlit](https://tech-mentor-app-k8szevckmur245i22lc4b2.streamlit.app/)
 
-
 ---
+
 
 ## 🤝 Contributing 
 

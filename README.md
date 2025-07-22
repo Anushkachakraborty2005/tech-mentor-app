@@ -1,4 +1,4 @@
-#📝TechMentor📝:Your AI-Powered Tech Help Desk for Students 
+# 📝TechMentor 📝:  Your AI-Powered Tech Help Desk for Students 
 
 ## 🌐 Overview 
 

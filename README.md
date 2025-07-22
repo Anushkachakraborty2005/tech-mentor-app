@@ -78,16 +78,15 @@ This application is designed for easy deployment on **Streamlit Community Cloud*
 🎬 **Live Application:** [TechMentor on Streamlit](https://tech-mentor-app-k8szevckmur245i22lc4b2.streamlit.app/)
 
 ---
-
-## 📁 Project Structure
-
-The project follows a simple and flat structure, making it easy to navigate and understand:
+```markdown
+📁 Project Structure
 
 tech-mentor-app/
 ├── app.py # Main Streamlit application
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
- ---
+ ```
+---
  
 
 ## 🤝 Contributing 

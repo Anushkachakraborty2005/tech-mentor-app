@@ -16,9 +16,9 @@ from reportlab.lib.units import inch
 
 # --- API Keys Configuration ---
 # IMPORTANT: Replace with your actual keys
-GOOGLE_API_KEY = "AIzaSyAv0Lt0cQEUJmanDrTC6Wf62Br5RfYe87c" # <<< Your Google API Key
-CSE_ID = "30326ba3dd1764431" # <<< Your Custom Search Engine ID
-GEMINI_API_KEY = "AIzaSyCyCEcyCwYrxBpC0_8Mg2ML4uCI_lFLx9g" # <<< Your Gemini API Key
+GOOGLE_API_KEY = "ENTER YOUR GOOGLE API KEY HERE" # <<< Your Google API Key
+CSE_ID = "ENTER YOUR CSE_ID HERE" # <<< Your Custom Search Engine ID
+GEMINI_API_KEY = "ENTER YOUR GEMINI API KEY HERE " # <<< Your Gemini API Key
 
 # --- Global Styles for PDF (to prevent KeyError on re-runs) ---
 _pdf_styles = getSampleStyleSheet()
